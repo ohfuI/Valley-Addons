@@ -23,7 +23,7 @@ Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
 
 Download the latest version of the mod
 
-Extract the .7z into the ChatTriggers modules folder.
+Extract the .zip into the ChatTriggers modules folder.
 
 Enjoy!
 

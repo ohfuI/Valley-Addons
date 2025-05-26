@@ -1,6 +1,7 @@
 # NOTICE PLEASE READ:
 
 There are many fake downloads over github many including rats. PLEASE do not install these edited files. Not much else i can say on this matter just please dont get a corrupted file
+Known Ratters on github; Trimonw, CyaniQT, iliketomeow333 and anyone who is starring any of their repositorys
 
 # ValleyAddons
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (especially F7/M7).
